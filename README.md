@@ -1,5 +1,5 @@
 # EORA 
-- https://t.me/esusincep1983 - бот
+- https://t.me/esusincep1983 - client-бот
 - This project is a telegram bot created using Python==3.10.11.
 - я - https://t.me/Sudokuh
 

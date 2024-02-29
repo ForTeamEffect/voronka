@@ -120,8 +120,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.session
-.session-journal
+.+66993579241.session
+.+66993579241.session-journal
 .env
 .venv
 env/
